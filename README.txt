@@ -1,8 +1,4 @@
-GREENLY — VERSI BAHASA INDONESIA
+Greenly merupakan website kampanye lingkungan yang bertujuan meningkatkan kesadaran masyarakat tentang pentingnya menjaga bumi melalui edukasi digital.
 
-1. Unggah index.html ke root repository GitHub Pages.
-2. Gantikan index.html lama, lalu Commit changes.
-3. Buka alamat GitHub Pages yang sama.
-
-Desain dan foto versi Greenly fotografi dipertahankan. Teks, artikel, tantangan, serta kuis telah diterjemahkan ke bahasa Indonesia.
-Foto menggunakan images.unsplash.com dan membutuhkan koneksi internet.
+Tujuan
+Mengajak masyarakat untuk memulai perubahan sederhana dalam kehidupan sehari-hari demi menciptakan lingkungan yang lebih bersih, sehat, dan berkelanjutan.
